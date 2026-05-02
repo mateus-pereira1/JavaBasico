@@ -22,3 +22,15 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*
+/aula005/OlaMundoSwing/nbproject/private/
+/aula005/OlaMundoSwing/build/
+/aula005/OlaMundoJavaFx/nbproject/private/
+/aula005/OlaMundoJavaFx/build/
+/aula005/OlaMundoJavaFx/dist/
+/aula005/RelogioSwing/nbproject/private/
+/aula005/RelogioSwing/build/
+/aula006/TiposPrimitivos/nbproject/private/
+/aula006/TiposPrimitivos/build/
+/aula006/TesteTipos/nbproject/private/
+/aula006/SomaSwing/nbproject/private/
+/aula006/SomaSwing/build/
